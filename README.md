@@ -19,6 +19,8 @@ macOS users also need to have watchman downloaded.
 
 `brew install watchman`
 
+At this point clone the repo if you already haven't and cd into the top folder.
+
 Install Expo CLI, this allows you to run in browser, on emulators, or through there app on your phone.
 
 `npm install -g expo-cli`
