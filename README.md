@@ -7,26 +7,27 @@ Make sure you have the Node 12 LTS or higher.
 
 `node -v`
 
-If not then install it with brew if on macOS
+If not then install it with brew if on macOS.
 
 `brew install node`
 
-or visit this link for a download - [Download Node](https://nodejs.org/en/download/)
+or visit this link for a download - [Download Node](https://nodejs.org/en/download/).
 
-macOS users also need to have watchman downloaded
+macOS users also need to have watchman downloaded.
 
 `brew update`
+
 `brew install watchman`
 
 Install Expo CLI, this allows you to run in browser, on emulators, or through there app on your phone.
 
 `npm install -g expo-cli`
 
-Install the rest of the project dependencies with npm
+Install the rest of the project dependencies with npm.
 
 `npm install`
 
-Start the project
+Start the project.
 
 `expo start`
 
